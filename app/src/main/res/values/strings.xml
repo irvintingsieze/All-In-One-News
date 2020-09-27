@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">All In One News</string>
+
+    //Main Activity
+    <string name="title_main">NEWS PROVIDER</string>
+    <string name="search_bar">Search for News Provider!</string>
+
+    //News Details RecycleView
+    <string name="rv_title">News Provider</string>
+    <string name="rv_description">Description of News Provider</string>
+
+    //CardView NewsArticles
+    <string name="cv_na_title">Title</string>
+    <string name="cv_na_description">News Description</string>
+    <string name="cv_na_date">DD/MM/YY</string>
+    <string name="cv_na_link">More Details</string>
+
+    //CardView NewsProvider
+    <string name="cv_np_name">Name</string>
+    <string name="cv_np_description">Description of News</string>
+    <string name="cv_np_category">Category: </string>
+
+
+</resources>
