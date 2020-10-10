@@ -13,3 +13,4 @@ Upon clicking on the news, the user would be able to view the full article in th
 
 Data from: https://newsapi.org/
 
+Application video: https://youtu.be/JR0P84x4Pok
